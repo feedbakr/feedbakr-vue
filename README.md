@@ -2,7 +2,7 @@
 
 > feedbakr front end
 
-## Build Setup
+## The Build Setup
 
 ``` bash
 # install dependencies
